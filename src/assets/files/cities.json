@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "name": "El Valle de Anton",
+            "image": "Valle.png"
+        },
+        {
+            "name": "El Volcan Baru",
+            "image": "Volcan.png"
+        },
+        {
+            "name": "El Canal de Panama",
+            "image": "Canal.png"
+        }
+    ]
+}

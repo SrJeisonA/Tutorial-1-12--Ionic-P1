@@ -1,0 +1,22 @@
+{
+    "data":[
+        {
+            "name": "Jeison",
+            "state": "Hola como estas...",
+            "description": "Estamos dando sistemas expertos...",
+            "image": "avatar-luke.png"
+        },
+        {
+            "name": "John",
+            "state": "Hoy es un buen dia...",
+            "description": "Estamos dando sistemas expertos...",
+            "image": "avatar-yoda.png"
+        },
+        {
+            "name": "Mario",
+            "state": "5to Año de Ingenieria Informatica...",
+            "description": "Estamos dando sistemas expertos...",
+            "image": "avatar-han.png"
+        }
+    ]
+}
